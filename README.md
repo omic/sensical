@@ -7,6 +7,8 @@ Public sense-making research for COVID-19 using Tweets.
 
 # wheel
 
+Source paper:  https://www.tandfonline.com/doi/abs/10.1080/10447318.2018.1427830?journalCode=hihc20.
+
 ## sentiment
 
 - https://github.com/ayushoriginal/Sentiment-Analysis-Twitter
