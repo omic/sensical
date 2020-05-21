@@ -9,6 +9,7 @@ Existing methods:
 - https://arxiv.org/pdf/2004.13932.pdf
 - https://arxiv.org/pdf/2003.07372.pdf
 - https://arxiv.org/pdf/2003.07602.pdf
+- https://usc-melady.github.io/COVID-19-Tweet-Analysis/
 
 Other datasets:
 - https://github.com/nytimes/covid-19-data
