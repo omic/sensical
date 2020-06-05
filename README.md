@@ -1,9 +1,15 @@
 # sensical
 Public sense-making research for COVID-19 using Tweets.
 
+# setup
+
+1. Pull down 'COVID-19-TweetIDs' submodule. Install dependencies.  Configure 'twarc' with Twitter app consumer IDs.  Documentation [here](https://developer.twitter.com/en/docs/labs/filtered-stream/quick-start).  Hydrate tweets by running './hydrate.py'.
+2.  
+
 # approach / todo
 
-- ...
+- The `tweets/2020-05` and `tweets/2020-04` folders has been zipped to save space on the device.
+- We'll want to upload this data via the `omic` CLI so it shows up in OS.
 
 # wheel
 
