@@ -3,8 +3,7 @@ Public sense-making research for COVID-19 using Tweets.
 
 # setup
 
-1. Pull down 'COVID-19-TweetIDs' submodule. Install dependencies.  Configure 'twarc' with Twitter app consumer IDs.  Documentation [here](https://developer.twitter.com/en/docs/labs/filtered-stream/quick-start).  Hydrate tweets by running './hydrate.py'.
-2.  
+Pull down 'COVID-19-TweetIDs' submodule. Install dependencies.  Configure 'twarc' with Twitter app consumer IDs.  Documentation [here](https://developer.twitter.com/en/docs/labs/filtered-stream/quick-start).  Hydrate tweets by running './hydrate.py'.
 
 # approach / todo
 
