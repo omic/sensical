@@ -15,8 +15,10 @@ Public sense-making research for COVID-19 using Tweets.
 
 Source paper:  https://www.tandfonline.com/doi/abs/10.1080/10447318.2018.1427830?journalCode=hihc20.
 
-## sentiment
+## sentiment/emotion
 
+- https://github.com/bentrevett/pytorch-sentiment-analysis
+- https://devblogs.microsoft.com/cse/2015/11/29/emotion-detection-and-recognition-from-text-using-deep-learning/
 - https://github.com/ayushoriginal/Sentiment-Analysis-Twitter
 - https://github.com/abdulfatir/twitter-sentiment-analysis
 - https://github.com/vnnsrk/Twitter-Sentiment-Analysis
